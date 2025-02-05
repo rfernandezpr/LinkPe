@@ -1,0 +1,22 @@
+{
+  "name": "linkpe",
+  "version": "1.0.0",
+  "description": "Projeto clone LinkTree para Demo com  node, Express e TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfernandezpr/LinkPe.git"
+  },
+  "author": "Roger A. Fernández Bozo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfernandezpr/LinkPe/issues"
+  },
+  "homepage": "https://github.com/rfernandezpr/LinkPe#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
